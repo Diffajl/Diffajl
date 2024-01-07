@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmad Diffa Jamaludin</h1>
+<img src="![image](https://github.com/Diffajl/Diffajl/assets/147916548/bf6d28d8-78b0-4f6d-82e5-a983fda84c4f)">
+
 <h3 align="center">Student Who Studying Programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diffajl&label=Profile%20views&color=0e75b6&style=flat" alt="diffajl" /> </p>
