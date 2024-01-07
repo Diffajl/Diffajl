@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Diffa Jamaludin</h1>
-<img src="![image](https://github.com/Diffajl/Diffajl/assets/147916548/bf6d28d8-78b0-4f6d-82e5-a983fda84c4f)">
+<img src="![image](https://github.com/Diffajl/Diffajl/assets/147916548/bf6d28d8-78b0-4f6d-82e5-a983fda84c4f)" width="100%" height="100%">
 
 <h3 align="center">Student Who Studying Programming</h3>
 
