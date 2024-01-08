@@ -1,21 +1,58 @@
-<h1 align="center">Hi 👋, I'm Ahmad Diffa Jamaludin</h1>
-<h3 align="center">a student who studies programming</h3>
+![](cs.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diffajl&label=Profile%20views&color=0e75b6&style=flat" alt="diffajl" /> </p>
+## Hi there 👋
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+#### Dzaky is a 2nd year student @UGM who is passionate about Data Science, Machine Learning, and AI, as well as cats and a never-ending desire to learn. ∞
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/diffa_jl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diffa_jl" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/diffvlog27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="diffvlog27" height="30" width="40" /></a>
+
+## ⭐️ Programming Language & Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+
+
+## 📫 Reach me
+<p>
+  <a href="https://www.linkedin.com/in/ahmaddzakyjamaludin/">
+    <img alt="linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://open.spotify.com/user/dqo8peqilcukde4hln59iqsq7?si=373d40bbb285446d">
+    <img alt="spotify" title="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzakyjl&layout=compact&theme=outrun)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diffajl&show_icons=true&locale=en&layout=compact" alt="diffajl" /></p>
+<!--
+**dzakyjl/dzakyjl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diffajl&show_icons=true&locale=en" alt="diffajl" /></p>
+Here are some ideas to get you started:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diffajl&" alt="diffajl" /></p>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+- 🔭 I’m a 2nd year student at UGM
+- 📊 I’m currently learning Data Science, Machine Learning and AI
+- 📫 How to reach me: ahmaddzakyjamaludin@mail.ugm.ac.id
+- 🙀 Fun fact: I love cats 
+
+[![My Skills](https://skillicons.dev/icons?i=py,js,cpp,ts)](https://skillicons.dev)
+
+![Dzaky's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzakyjl&theme=tokyonight_icons=true)
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+-->
