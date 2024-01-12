@@ -17,9 +17,6 @@
 
 ## 📫 Reach me
 <p>
-  <a href="https://www.linkedin.com/in/ahmaddzakyjamaludin/">
-    <img alt="linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
   <a href="https://open.spotify.com/user/31erbfklymxwsudclt647eccqq2e?si=LDDcaHbBSHelSSnG7RmgHg">
     <img alt="spotify" title="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
