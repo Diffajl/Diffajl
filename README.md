@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-#### Diffa is an 8th grade student at MTs al-faridiyah who loves studying data science, machine learning, and AI. ∞
+#### Currently studying data science, machine learning, and AI. ∞
 
 
 ## ⭐️ Programming Language & Tools
