@@ -56,3 +56,6 @@ Here are some ideas to get you started:
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 -->
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diffajl&show_icons=true&locale=en" alt="diffajl" /></p>
