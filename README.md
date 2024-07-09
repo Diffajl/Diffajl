@@ -1,6 +1,16 @@
-<!-- ![](cs.gif)
+![](cs.gif)
 
 ## Hi there 👋
+
+<h3 align="center">Seorang siswa SMP yang menyukai programming dan berfokus pada bidang Machine Learning, Data Science, AI,</h3>
+
+- 🔭 I’m currently working on **Game Development and Data Science**
+
+- 🌱 I’m currently learning **Python, C#, Unity**
+
+- 💬 Ask me about **Programming especially on machine learning, data science, AI, and game development**
+
+- ⚡ Fun fact **I like playing games :v**
 
 #### Currently Studying Data Science, Machine Learning, AI, and Game Development. ∞
 
@@ -36,9 +46,9 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diffajl&show_icons=true&locale=en&layout=compact" alt="diffajl" /></p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diffajl&show_icons=true&locale=en&layout=compact" alt="diffajl" /></p>
 
-<h1 align="center">Hi 👋, I'm Diffajl</h1>
+<!-- <h1 align="center">Hi 👋, I'm Diffajl</h1>
 <h3 align="center">Seorang siswa SMP yang menyukai programming dan berfokus pada bidang Machine Learning, Data Science, AI,</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diffajl&label=Profile%20views&color=0e75b6&style=flat" alt="diffajl" /> </p>
@@ -68,5 +78,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diffajl&show_icons=true&locale=en" alt="diffajl" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diffajl&" alt="diffajl" /></p>
-
+-->
 
