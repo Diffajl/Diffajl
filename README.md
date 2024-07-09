@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-<h3 align="center">Seorang siswa SMP yang menyukai programming dan berfokus pada bidang Machine Learning, Data Science, AI,</h3>
+<h3 align="center"I'm Diffajl, >A junior high school student who loves programming and focuses on Machine Learning, Data Science, AI, and game development.</h3>
 
 - 🔭 I’m currently working on **Game Development and Data Science**
 
