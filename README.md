@@ -29,6 +29,9 @@
   <a href="https://open.spotify.com/user/31erbfklymxwsudclt647eccqq2e?si=LDDcaHbBSHelSSnG7RmgHg">
     <img alt="spotify" title="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
+  <a href="https://www.instagram.com/diffa_jl">
+    <img alt="instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 
