@@ -4,15 +4,15 @@
 
 <h3 align="center">I'm Diffajl, A junior high school student who loves programming and focuses on Machine Learning, Data Science, AI, and game development.</h3>
 
-- 🔭 I’m currently working on **Game Development and Data Science**
+- 🔭 I'm currently studying programming fields such as **Game Development and Data Science**.
 
-- 🌱 I’m currently learning **Python, C#, Unity**
+- 🌱 I’m currently learning programming language like **Python, C#, Unity**
 
 - 💬 Ask me about **Programming especially on machine learning, data science, AI, and game development**
 
 - ⚡ Fun fact **I like playing games :v**
 
-#### Currently Studying Data Science, Machine Learning, AI, and Game Development. ∞
+<!-- #### Currently Studying Data Science, Machine Learning, AI, and Game Development. ∞ -->
 
 
 ## ⭐️ Programming Language & Tools
