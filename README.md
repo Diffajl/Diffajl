@@ -2,13 +2,13 @@
 
 ## Hi there 👋
 
-<h3 align="center">I'm Diffajl, A junior high school student who loves programming and focuses on Data Science, AI, Mobile Development, and IoT</h3>
+<h3 align="center">I'm Diffajl, A junior high school student who loves programming and focuses on Data Science and IoT</h3>
 
 - 🔭 I'm currently studying programming fields such as **IoT and Data Science**.
 
-- 🌱 I’m currently learning programming language like **Python, C++, Flutter**
+- 🌱 I’m currently learning programming language like **Python and C++**
 
-- 💬 Ask me about **Programming especially on data science, AI, Iot, and Mobile Dev**
+- 💬 Ask me about **Programming especially on data science and Iot**
 
 - ⚡ Fun fact **I like playing games :v**
 
