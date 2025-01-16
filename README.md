@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/-ESP32-blue?style=for-the-badge&logo=esp32" alt="ESP32" />
   <img src="https://img.shields.io/badge/-Arduino-yellow?style=for-the-badge&logo=arduino" alt="Arduino" />
   <img src="https://img.shields.io/badge/-Python-green?style=for-the-badge&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/-Tensorflow-purple?style=for-the-badge&logo=tensorflow" alt="Tensorflow" />
   <img src="https://img.shields.io/badge/-AI-red?style=for-the-badge&logo=ai" alt="AI" />
   <img src="https://img.shields.io/badge/-Data Science-green?style=for-the-badge&logo=data-science" alt="Data Science" />
   <img src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter" alt="Flutter" />
