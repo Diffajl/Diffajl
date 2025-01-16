@@ -19,7 +19,8 @@
   <img src="https://img.shields.io/badge/-Arduino-yellow?style=for-the-badge&logo=arduino" alt="Arduino" />
   <img src="https://img.shields.io/badge/-Python-green?style=for-the-badge&logo=python" alt="Python" />
   <img src="https://img.shields.io/badge/-AI-red?style=for-the-badge&logo=ai" alt="AI" />
-  <img src="https://img.shields.io/badge/-Data Science-red?style=for-the-badge&logo=data-science" alt="Data Science" />
+  <img src="https://img.shields.io/badge/-Data Science-green?style=for-the-badge&logo=data-science" alt="Data Science" />
+  <img src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter" alt="Flutter" />
 </p>
 ## 📫 Reach me
 <p>
