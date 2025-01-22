@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter" alt="Flutter" />
   <img src="https://img.shields.io/badge/-Git-blue?style=for-the-badge&logo=git" alt="Git" />
 </p>
-## 📫 Reach me
+<h3>📫 Reach me</h3>
 <p>
   <a href="https://open.spotify.com/user/31erbfklymxwsudclt647eccqq2e?si=LDDcaHbBSHelSSnG7RmgHg">
     <img alt="spotify" title="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
