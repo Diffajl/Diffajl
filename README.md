@@ -2,13 +2,13 @@
 
 ## Hi there 👋
 
-<h3 align="center">I'm Diffajl, A junior high school student who loves programming and focuses on Data Science, Mobile Development, and IoT</h3>
+<h3 align="center">I'm Diffajl, A junior high school student who loves programming and focuses on Data Science, Game Development, and IoT</h3>
 
-- 🔭 I'm currently studying programming fields such as **Mobile Development, IoT and Data Science**.
+- 🔭 I'm currently studying programming fields such as **Game Development, IoT and Data Science**.
 
-- 🌱 I’m currently learning programming language like **Python, C++, And Dart**
+- 🌱 I’m currently learning programming language like **Python, C++, And C#**
 
-- 💬 Ask me about **Programming especially on data science, Iot, and Mobile Development**
+- 💬 Ask me about **Programming especially on data science, Iot, and Game Development**
 <p align='center'>
   <img src="https://img.shields.io/badge/-ESP32-blue?style=for-the-badge&logo=esp32" alt="ESP32" />
   <img src="https://img.shields.io/badge/-Arduino-yellow?style=for-the-badge&logo=arduino" alt="Arduino" />
@@ -18,7 +18,10 @@
   <img src="https://img.shields.io/badge/-Pandas-orange?style=for-the-badge&logo=pandas" alt="Pandas" />
   <img src="https://img.shields.io/badge/-Matplotlib-blue?style=for-the-badge&logo=matplotlib" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/-Data Science-green?style=for-the-badge&logo=data-science" alt="Data Science" />
-  <img src="https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter" alt="Flutter" />
+<!--   <img src="https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter" alt="Flutter" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+
+###
   <img src="https://img.shields.io/badge/-Git-blue?style=for-the-badge&logo=git" alt="Git" />
 </p>
 <div align="center">
