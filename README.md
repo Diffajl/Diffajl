@@ -19,7 +19,8 @@
   <img src="https://img.shields.io/badge/-Matplotlib-blue?style=for-the-badge&logo=matplotlib" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/-Data Science-green?style=for-the-badge&logo=data-science" alt="Data Science" />
 <!--   <img src="https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter" alt="Flutter" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img src="https://img.shields.io/badge/-Unity-blue?style=for-the-badge&logo=unity" alt="Unity" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  /> -->
 
 ###
   <img src="https://img.shields.io/badge/-Git-blue?style=for-the-badge&logo=git" alt="Git" />
