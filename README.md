@@ -2,13 +2,13 @@
 
 ## Hi there 👋
 
-<h3 align="center">I'm Diffajl, A junior high school student who loves programming and focuses on Mobile Development, Data Science, and IoT</h3>
+<h3 align="center">I'm Diffajl, A junior high school student who loves programming and focuses on Mobile Development, Machine Learning, and IoT</h3>
 
-- 🔭 I'm currently studying programming fields such as **Mobild Dev, IoT and Data Science**.
+- 🔭 I'm currently studying programming fields such as **Mobile Dev, IoT and Machine Learning**.
 
 - 🌱 I’m currently learning programming language like **Python, Dart, And C++**
 
-- 💬 Ask me about **Programming especially on Mobild Dev, Data Science, IoT**
+- 💬 Ask me about **Programming especially on Mobile Dev, Machine Learning, and IoT**
 <p align='center'>
   <img src="https://img.shields.io/badge/-ESP32-blue?style=for-the-badge&logo=esp32" alt="ESP32" />
   <img src="https://img.shields.io/badge/-Arduino-yellow?style=for-the-badge&logo=arduino" alt="Arduino" />
