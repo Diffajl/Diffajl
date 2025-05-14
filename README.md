@@ -28,7 +28,7 @@
 ###
 <h3>📫 Reach me</h3>
 <p>
-  <a href="https://open.spotify.com/user/31erbfklymxwsudclt647eccqq2e?si=LDDcaHbBSHelSSnG7RmgHg](https://open.spotify.com/user/31hs5bjvav6jxhn7qff56zoi2jiq">
+  <a href="https://open.spotify.com/user/31hs5bjvav6jxhn7qff56zoi2jiq?si=2b8f53440d144c25">
     <img alt="spotify" title="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/diffa_jl">
