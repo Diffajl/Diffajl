@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/-Numpy-pink?style=for-the-badge&logo=numpy" alt="Numpy" />
   <img src="https://img.shields.io/badge/-Pandas-orange?style=for-the-badge&logo=pandas" alt="Pandas" />
   <img src="https://img.shields.io/badge/-Matplotlib-blue?style=for-the-badge&logo=matplotlib" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/-Data Science-green?style=for-the-badge&logo=data-science" alt="Data Science" />
   <img src="https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter" alt="Flutter" />
   <img src="https://img.shields.io/badge/-Dart-blue?style=for-the-badge&logo=dart" alt="Dart" />
   <img src="https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git" alt="Git" />
@@ -29,7 +28,7 @@
 ###
 <h3>📫 Reach me</h3>
 <p>
-  <a href="https://open.spotify.com/user/31erbfklymxwsudclt647eccqq2e?si=LDDcaHbBSHelSSnG7RmgHg">
+  <a href="https://open.spotify.com/user/31erbfklymxwsudclt647eccqq2e?si=LDDcaHbBSHelSSnG7RmgHg](https://open.spotify.com/user/31hs5bjvav6jxhn7qff56zoi2jiq">
     <img alt="spotify" title="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/diffa_jl">
