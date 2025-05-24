@@ -4,6 +4,7 @@
 
 <h3 align="center">I'm Diffajl, A junior high school student who loves programming and focuses on Game Development, Mobile Development, Machine Learning, and IoT</h3>
 
+### Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
   <img width="12" />
