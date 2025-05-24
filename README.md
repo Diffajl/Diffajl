@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-<h3 align="center">I'm Diffajl, A junior high school student who loves programming and focuses on Game Development, Mobile Development, Machine Learning, and IoT</h3>
+<h3 align="center">I'm Diffa, A junior high school student who loves programming and focuses on Game Development, Mobile Development, Machine Learning, and IoT</h3>
 
 ### Tech Stack:
 <div align="left">
