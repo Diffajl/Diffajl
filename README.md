@@ -2,14 +2,7 @@
 
 ## Hi there 👋
 
-<h3 align="center">I'm Diffajl, A junior high school student who loves programming and focuses on Mobile Development, Machine Learning, and IoT</h3>
-
-- 🔭 I'm currently studying programming fields such as **Mobile Dev, IoT and Machine Learning**.
-
-- 🌱 I’m currently learning programming language like **Python, Dart, And C++**
-
-- 💬 Ask me about **Programming especially on Mobile Dev, Machine Learning, and IoT**
-###
+<h3 align="center">I'm Diffajl, A junior high school student who loves programming and focuses on Game Development, Mobile Development, Machine Learning, and IoT</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
