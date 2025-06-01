@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm Diffa, A junior high school student who loves programming and focuses on Mobile Development, Machine Learning, and IoT</h3>
 
-### Tech Stack:
+### Programming Language and Tools:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
