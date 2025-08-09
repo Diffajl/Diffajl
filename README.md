@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-<h3 align="center">I'm Diffa, A senior high school student who loves programming and focuses on Mobile Development, Machine Learning, and IoT</h3>
+<h3 align="center">I'm Diffa, a high school student with a strong interest in IT and electronics. I focus on IoT development, robotics, machine learning, and mobile application development.</h3>
 
 ### Programming Language and Tools:
 <div align="center">
@@ -51,5 +51,8 @@
   </a>
   <a href="https://www.instagram.com/diffa_jl">
     <img alt="instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ahmad-diffa-jamaludin-3628b82ab/l">
+    <img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/Linkedin-3cdfff?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
